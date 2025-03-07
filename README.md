@@ -65,6 +65,9 @@ This project leverages multiple **advanced Power BI functionalities**:
 - `Platform_Drill_Through.JPG` - Booking Platform Analysis
 - `Recommentdation.JPG` - Key Findings & Recommendations
 
+🔗 **Live Dashboard:** [Hospitality Management Analysis](https://app.powerbi.com/view?r=eyJrIjoiMjEyMTNjZDYtZDhmOS00YWRiLWJmNjItNTliOTM5MjI0OGU2IiwidCI6IjFiMGY2ZDU2LTBkOTEtNDZiNy04NzFiLTBmNzljNzJhYmYxZiIsImMiOjEwfQ%3D%3D)
+
+
 ## 📩 Contact & Connect
 🔗 **LinkedIn:** [Tanvir Taushif](https://www.linkedin.com/in/tanvir-taushif-751044204/)
 📧 **Email:** tanvirpial9961@gmail.com  
