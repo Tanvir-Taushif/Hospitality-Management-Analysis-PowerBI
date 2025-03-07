@@ -12,7 +12,7 @@ This dashboard is built using **advanced Power BI functionalities**, including:
 
 ## 📊 Key Insights
 ### 1️⃣ **Revenue & Occupancy Trends**
-   - The total revenue is **1.7bn**, with a steady realization rate of **70.1%**.
+   - The total revenue is **1.7bn**.
    - **Occupancy Rate:** 57.8%, with noticeable fluctuations across weekdays and weekends.
    - **ADR (Average Daily Rate):** 12.7K, but follows a static pricing strategy.
 
@@ -37,17 +37,19 @@ This project leverages multiple **advanced Power BI functionalities**:
 ✅ **Custom Visuals** to enhance data storytelling  
 
 ## 📷 Screenshots
+
 ### 🔹 Dashboard Overview
-![Dashboard](Dashboard.JPG)
+![Dashboard](Images/Dashboard.JPG)
 
 ### 🔹 Tooltip & Drillthrough Example
-![Tooltip](Dashboard_with_tooltip.JPG)
+![Tooltip](Images/Dashboard_with_tooltip.JPG)
 
 ### 🔹 Booking Platform Drillthrough
-![Platform](Platform_Drill_Through.JPG)
+![Platform](Images/Platform%20Drill%20Through.JPG)
 
 ### 🔹 Recommendations & Insights
-![Recommendation](Recommentdation.JPG)
+![Recommendation](Images/Recommentdation.JPG)
+
 
 ## 🚀 How to Use the Dashboard?
 1️⃣ Open the **Power BI file (.pbix)**
