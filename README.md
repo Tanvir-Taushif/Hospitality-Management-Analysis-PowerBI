@@ -1,2 +1,74 @@
-# Hospitality-Management-Analysis-PowerBI
-A Power BI dashboard providing data-driven insights into hotel performance, revenue, occupancy, and booking trends using advanced analytics and visualization techniques.
+# 🏨 Atliq Hotel Chain Management - Power BI Dashboard
+
+## 📌 Project Overview
+This **Power BI Dashboard** provides a **comprehensive analysis of hotel performance metrics** for **Atliq Hotel Chain Management**. It enables **data-driven decision-making** by visualizing key insights such as **Revenue, Occupancy Rate, ADR, RevPAR, Booking Platform Performance, and Customer Ratings**.
+
+This dashboard is built using **advanced Power BI functionalities**, including:
+- **DAX Measures**
+- **Conditional Formatting**
+- **Tooltips**
+- **Drillthrough**
+- **Custom Visuals**
+
+## 📊 Key Insights
+### 1️⃣ **Revenue & Occupancy Trends**
+   - The total revenue is **1.7bn**, with a steady realization rate of **70.1%**.
+   - **Occupancy Rate:** 57.8%, with noticeable fluctuations across weekdays and weekends.
+   - **ADR (Average Daily Rate):** 12.7K, but follows a static pricing strategy.
+
+### 2️⃣ **Booking Platform Performance**
+   - Major revenue sources include **MakeYourTrip (20%)** and other platforms.
+   - **Tripster has a high cancellation rate of 25.02%**, indicating issues with that platform.
+
+### 3️⃣ **Hotel Performance Metrics**
+   - **Mumbai hotels have the highest RevPAR (8.9K), while Hyderabad hotels perform the worst (5.4K).**
+   - **Low-rated hotels need customer feedback surveys** to improve service.
+
+### 4️⃣ **Recommendations**
+   - **Adopt dynamic pricing** instead of static pricing to optimize ADR & revenue.
+   - **Address platform-specific booking issues** (e.g., Tripster) to reduce cancellations.
+   - **Engage with low-rated hotels to enhance guest experiences** and increase RevPAR.
+
+## 🔧 Power BI Features Used
+This project leverages multiple **advanced Power BI functionalities**:
+✅ **DAX Measures** for customized calculations  
+✅ **Conditional Formatting** to highlight key metrics  
+✅ **Tooltips & Drillthroughs** for deep data exploration  
+✅ **Custom Visuals** to enhance data storytelling  
+
+## 📷 Screenshots
+### 🔹 Dashboard Overview
+![Dashboard](Dashboard.JPG)
+
+### 🔹 Tooltip & Drillthrough Example
+![Tooltip](Dashboard_with_tooltip.JPG)
+
+### 🔹 Booking Platform Drillthrough
+![Platform](Platform_Drill_Through.JPG)
+
+### 🔹 Recommendations & Insights
+![Recommendation](Recommentdation.JPG)
+
+## 🚀 How to Use the Dashboard?
+1️⃣ Open the **Power BI file (.pbix)**
+2️⃣ Explore key metrics using **filters, slicers, and drillthroughs**
+3️⃣ Use **tooltips** for in-depth insights on revenue, occupancy, and ratings
+4️⃣ Analyze **recommendations** to enhance business performance
+
+## 📌 Repository Contents
+- `Atliq_Hotel_Management.pbix` - Power BI Dashboard File
+- `README.md` - Project Documentation
+- `Dashboard.JPG` - Main Dashboard Screenshot
+- `Dashboard_with_tooltip.JPG` - Tooltip & Drillthrough Example
+- `Platform_Drill_Through.JPG` - Booking Platform Analysis
+- `Recommentdation.JPG` - Key Findings & Recommendations
+
+## 📩 Contact & Connect
+🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)  
+📧 **Email:** your.email@example.com  
+
+---
+
+If you find this project useful, **⭐ Star this repository** and share your feedback! 🚀  
+
+#PowerBI #DataAnalytics #BusinessIntelligence #HotelManagement #DAX #DashboardDesign
