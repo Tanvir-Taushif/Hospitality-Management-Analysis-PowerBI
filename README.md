@@ -66,8 +66,8 @@ This project leverages multiple **advanced Power BI functionalities**:
 - `Recommentdation.JPG` - Key Findings & Recommendations
 
 ## 📩 Contact & Connect
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)  
-📧 **Email:** your.email@example.com  
+🔗 **LinkedIn:** [Tanvir Taushif](https://www.linkedin.com/in/tanvir-taushif-751044204/)
+📧 **Email:** tanvirpial9961@gmail.com  
 
 ---
 
